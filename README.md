@@ -30,7 +30,7 @@ into ArcGIS Desktop.
 in: [GIS Tools for Hadoop](https://github.com/Esri/gis-tools-for-hadoop).
 
 ## Requirements
-
+* Python Editor
 * ArcGIS 10.1 or later.
 * A Hadoop system with WebHDFS support.
 
